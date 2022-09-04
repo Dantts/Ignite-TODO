@@ -18,6 +18,6 @@ Dependencies used in the _project_
 
 * All dependencies are default to React can work normally.
 
-# Apresentação
+# Presentation
 
 ![GifIgniteToDo](https://user-images.githubusercontent.com/80539719/188321480-ca854650-d773-4010-bb6a-302e47a30039.gif)
