@@ -8,7 +8,7 @@ Basically this project is a to-do list, where have a CRUD only using the State H
 
 # Run project
 
-Basically to run the project, you just need to use the command `npm install` or `yarn to install` the project dependencies.
+Basically to run the project, you just need to use the command `npm install` or `yarn to install` to install the project dependencies.
 With the dependencies installed, you just need to run `npm run dev` or `yarn dev` to start the project in the development environment.
 
 **To install the project dependencies is necessary to know which package manager is installed on your computer.
